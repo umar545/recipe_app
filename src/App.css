@@ -7,12 +7,12 @@
   font-family: "montserrat";
 }
 .recipe-container {
-  width: 90%;
+  width: 85%;
   margin: auto;
 }
-.popular-wrapper {
+/* .popular-wrapper {
   margin: 4rem 0rem;
-}
+} */
 .popular-card {
   margin-top: 3rem;
   min-height: 15rem;
